@@ -22,8 +22,8 @@ public class ResultTest
                 		result = "Parakorn Bungaruang";
                 		break;
 			case "1550701369":
-						result = "Yanisa Dangkrue";
-						break;
+				result = "Yanisa Dangkrue";
+				break;
         		default :
 				break;
 		}
@@ -52,8 +52,8 @@ public class ResultTest
                 		result = "parakorn1";
                 		break;
 			case "1550701369":
-						result = "jommjomm";
-						break;
+				result = "jommjomm";
+				break;
             		default :
 				break;
 		}
